@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+body{
+    background: #000;
+}
+.myWatch{
+    top:35%;
+    left: 34%;
+    position: fixed;
+    background-color: #333333;
+    padding:50px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+
+}
+span{
+    font-family: 'Nova Square', cursive;
+    font-size: 50px;
+    color: #fff;
+}
+.orange{
+    color: rgb(255, 208, 0);
+}
+.green{
+    color: rgb(0, 221, 0);
+}
+.blue{
+    color: rgb(0, 174, 255);
+}
